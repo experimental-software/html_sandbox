@@ -1,4 +1,4 @@
-# JavaScript VanillaJS Template
+# HTML Sandbox
 
 > starting point for experiments with plain JavaScript and CSS
 
@@ -12,9 +12,9 @@
 To create a new project from this template, download the project files from [here](https://github.com/experimental-software/javascript-vanillajs-template/archive/refs/heads/master.zip) or run the following [Bash](https://tldp.org/LDP/Bash-Beginners-Guide/html/) snippet:
 
 ```sh
-SLUG=javascript-sandbox-$(date +%s)
+SLUG=html_sandbox_$(date +%s)
 {
-git clone git@github.com:experimental-software/javascript-vanillajs-template.git $SLUG
+git clone git@github.com:experimental-software/html_sandbox.git $SLUG
 cd $SLUG
 }
 ```
