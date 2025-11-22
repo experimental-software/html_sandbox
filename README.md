@@ -40,6 +40,11 @@ npm install --save-dev prettier
 
 - https://www.jetbrains.com/help/idea/prettier.html
 
+## Alternatives
+
+- [MDN Playground](https://developer.mozilla.org/en-US/play)
+- [StackBlitz](https://stackblitz.com/)
+
 ## References
 
 - http://vanilla-js.com/
